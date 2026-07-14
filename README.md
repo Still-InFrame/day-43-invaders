@@ -1,5 +1,7 @@
 ![Bug Invaders — a neon synthwave Space Invaders](./public/hero.png)
 
+**Live:** https://invaders.100dayaichallenge.com
+
 <sub>Product-concept mockup — an aspirational marketing render, not a literal screenshot of the app.</sub>
 
 # Bug Invaders
